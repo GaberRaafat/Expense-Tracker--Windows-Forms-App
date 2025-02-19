@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ITI\\04 - Computer programming\\Windows form projects\\Beta projects\\WinFormsApp1_V01 working - last Updated - 05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E46582B5-2F2F-424A-AA8A-52FC0D485AE6}|WinFormsApp1.csproj|e:\\iti\\04 - computer programming\\windows form projects\\beta projects\\winformsapp1_v01 working - last updated - 05\\maindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46582B5-2F2F-424A-AA8A-52FC0D485AE6}|WinFormsApp1.csproj|solutionrelative:maindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46582B5-2F2F-424A-AA8A-52FC0D485AE6}|WinFormsApp1.csproj|E:\\ITI\\04 - Computer programming\\Windows form projects\\Beta projects\\WinFormsApp1_V01 working - last Updated - 05\\maindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E46582B5-2F2F-424A-AA8A-52FC0D485AE6}|WinFormsApp1.csproj|solutionrelative:maindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46582B5-2F2F-424A-AA8A-52FC0D485AE6}|WinFormsApp1.csproj|e:\\iti\\04 - computer programming\\windows form projects\\beta projects\\winformsapp1_v01 working - last updated - 05\\models\\trackercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46582B5-2F2F-424A-AA8A-52FC0D485AE6}|WinFormsApp1.csproj|solutionrelative:models\\trackercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46582B5-2F2F-424A-AA8A-52FC0D485AE6}|WinFormsApp1.csproj|E:\\ITI\\04 - Computer programming\\Windows form projects\\Beta projects\\WinFormsApp1_V01 working - last Updated - 05\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E46582B5-2F2F-424A-AA8A-52FC0D485AE6}|WinFormsApp1.csproj|solutionrelative:registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46582B5-2F2F-424A-AA8A-52FC0D485AE6}|WinFormsApp1.csproj|E:\\ITI\\04 - Computer programming\\Windows form projects\\Beta projects\\WinFormsApp1_V01 working - last Updated - 05\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E46582B5-2F2F-424A-AA8A-52FC0D485AE6}|WinFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46582B5-2F2F-424A-AA8A-52FC0D485AE6}|WinFormsApp1.csproj|e:\\iti\\04 - computer programming\\windows form projects\\beta projects\\winformsapp1_v01 working - last updated - 05\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46582B5-2F2F-424A-AA8A-52FC0D485AE6}|WinFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46582B5-2F2F-424A-AA8A-52FC0D485AE6}|WinFormsApp1.csproj|e:\\iti\\04 - computer programming\\windows form projects\\beta projects\\winformsapp1_v01 working - last updated - 05\\maindashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46582B5-2F2F-424A-AA8A-52FC0D485AE6}|WinFormsApp1.csproj|solutionrelative:maindashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46582B5-2F2F-424A-AA8A-52FC0D485AE6}|WinFormsApp1.csproj|e:\\iti\\04 - computer programming\\windows form projects\\beta projects\\winformsapp1_v01 working - last updated - 05\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46582B5-2F2F-424A-AA8A-52FC0D485AE6}|WinFormsApp1.csproj|solutionrelative:registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterForm.cs [Design]",
+              "DocumentMoniker": "E:\\ITI\\04 - Computer programming\\Windows form projects\\Beta projects\\WinFormsApp1_V01 working - last Updated - 05\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "RegisterForm.cs",
+              "ToolTip": "E:\\ITI\\04 - Computer programming\\Windows form projects\\Beta projects\\WinFormsApp1_V01 working - last Updated - 04\\RegisterForm.cs [Design]",
+              "RelativeToolTip": "..\\WinFormsApp1_V01 working - last Updated - 04\\RegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T11:35:50.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\ITI\\04 - Computer programming\\Windows form projects\\Beta projects\\WinFormsApp1_V01 working - last Updated - 05\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\ITI\\04 - Computer programming\\Windows form projects\\Beta projects\\WinFormsApp1_V01 working - last Updated - 04\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\WinFormsApp1_V01 working - last Updated - 04\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T06:54:40.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainDashBoard.cs [Design]",
+              "DocumentMoniker": "E:\\ITI\\04 - Computer programming\\Windows form projects\\Beta projects\\WinFormsApp1_V01 working - last Updated - 05\\MainDashBoard.cs",
+              "RelativeDocumentMoniker": "MainDashBoard.cs",
+              "ToolTip": "E:\\ITI\\04 - Computer programming\\Windows form projects\\Beta projects\\WinFormsApp1_V01 working - last Updated - 05\\MainDashBoard.cs [Design]",
+              "RelativeToolTip": "MainDashBoard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T06:44:57.615Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainDashBoard.cs",
+              "DocumentMoniker": "E:\\ITI\\04 - Computer programming\\Windows form projects\\Beta projects\\WinFormsApp1_V01 working - last Updated - 05\\MainDashBoard.cs",
+              "RelativeDocumentMoniker": "MainDashBoard.cs",
+              "ToolTip": "E:\\ITI\\04 - Computer programming\\Windows form projects\\Beta projects\\WinFormsApp1_V01 working - last Updated - 05\\MainDashBoard.cs",
+              "RelativeToolTip": "MainDashBoard.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAkwDwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T12:03:23.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Trackercontext.cs",
+              "DocumentMoniker": "E:\\ITI\\04 - Computer programming\\Windows form projects\\Beta projects\\WinFormsApp1_V01 working - last Updated - 05\\Models\\Trackercontext.cs",
+              "RelativeDocumentMoniker": "Models\\Trackercontext.cs",
+              "ToolTip": "E:\\ITI\\04 - Computer programming\\Windows form projects\\Beta projects\\WinFormsApp1_V01 working - last Updated - 05\\Models\\Trackercontext.cs",
+              "RelativeToolTip": "Models\\Trackercontext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T18:43:54.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "E:\\ITI\\04 - Computer programming\\Windows form projects\\Beta projects\\WinFormsApp1_V01 working - last Updated - 05\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "RegisterForm.cs",
+              "ToolTip": "E:\\ITI\\04 - Computer programming\\Windows form projects\\Beta projects\\WinFormsApp1_V01 working - last Updated - 05\\RegisterForm.cs",
+              "RelativeToolTip": "RegisterForm.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAIAwwCgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T11:35:52.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\ITI\\04 - Computer programming\\Windows form projects\\Beta projects\\WinFormsApp1_V01 working - last Updated - 05\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\ITI\\04 - Computer programming\\Windows form projects\\Beta projects\\WinFormsApp1_V01 working - last Updated - 05\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAowGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T12:04:44.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainDashBoard.Designer.cs",
+              "DocumentMoniker": "E:\\ITI\\04 - Computer programming\\Windows form projects\\Beta projects\\WinFormsApp1_V01 working - last Updated - 05\\MainDashBoard.Designer.cs",
+              "RelativeDocumentMoniker": "MainDashBoard.Designer.cs",
+              "ToolTip": "E:\\ITI\\04 - Computer programming\\Windows form projects\\Beta projects\\WinFormsApp1_V01 working - last Updated - 05\\MainDashBoard.Designer.cs",
+              "RelativeToolTip": "MainDashBoard.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAUwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T13:59:25.139Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
